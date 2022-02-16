@@ -517,4 +517,11 @@ input[type="submit"]:hover{
         .gallery .gallery-filter .filter-item{
             font-size: 14px;
         }
+	.about .row .image img{
+		width: 20rem;
+	}
+	.about .row .cont .info{
+		fon-size: .7rem;
+	}
+	
     }
