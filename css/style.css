@@ -521,7 +521,9 @@ input[type="submit"]:hover{
 		width: 20rem;
 	}
 	.about .row .cont .info{
-		fon-size: .5rem;
+		fon-size: 14px;
 	}
-	
+	.about .row .cont h3{
+		font-size: 14px;
+	}
     }
